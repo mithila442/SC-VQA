@@ -1,4 +1,4 @@
-# Video Quality Assessment Model
+# Saliency-Driven Contrastive Video Quality Assessment (SC-VQA) Model
 
 This project implements the **Saliency-Driven Contrastive Video Quality Assessment (SC-VQA) Model**, a robust architecture designed to predict the perceptual quality of video sequences. By leveraging saliency maps generated from eye-tracking data, the model focuses on the most visually significant regions of video frames, enhancing its ability to align with human perception. 
 
