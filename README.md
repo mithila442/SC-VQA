@@ -49,7 +49,7 @@ This project implements the **Saliency-Driven Contrastive Video Quality Assessme
 
 - Mayesha Maliha Rahman Mithila, Mylene C.Q. Farias
 
-## License
+## Acknowledgement
 
-This project is licensed under the MIT License.
+This work was supported by the Department of Computer Science, Texas State University
 
