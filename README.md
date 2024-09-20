@@ -10,7 +10,7 @@ This project implements the **Saliency-Driven Contrastive Video Quality Assessme
 
 ## Model Architecture
 
-![Model diagram of SC-VQA](model.png)
+![Model diagram of SC-VQA](model.jpg)
 
 1. **Encoder and Decoder Blocks**: 
    - Utilizes Conv3D layers for feature extraction and DeConv3D layers for reconstructing saliency maps, highlighting important regions of the video.
